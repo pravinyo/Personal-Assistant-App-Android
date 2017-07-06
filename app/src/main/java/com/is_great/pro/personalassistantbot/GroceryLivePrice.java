@@ -43,7 +43,7 @@ public class GroceryLivePrice extends AppCompatActivity implements LoaderManager
             "https://data.gov.in/api/datastore/resource.json";
     private static final String resource_Id="9ef84268-d588-465a-a308-a864a43d0070";
     private static final String Api_key="api-key";
-    private static final String key ="a6e173bd2fce2defb8a41acb54a4a76a";
+    private static final String key ="your_key";
     private static final String filter_type_commodity="filters[commodity]";
     private static final String EXTRA_CALL_USER_COMMAND = "price";
 
