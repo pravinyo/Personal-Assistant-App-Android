@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241312225830",
+    "firebase_url": "https://personal-assistant-bot-855c6.firebaseio.com",
+    "project_id": "personal-assistant-bot-855c6",
+    "storage_bucket": "personal-assistant-bot-855c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241312225830:android:6e5624235c68a3dc",
+        "android_client_info": {
+          "package_name": "com.is_great.pro.personalassistantbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241312225830-dc7o9g8l2vgrjnc0c4cl5dumo4jacrqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.is_great.pro.personalassistantbot",
+            "certificate_hash": "71ed23b780aceb3ff696fd8d7a5b520a7b7168fc"
+          }
+        },
+        {
+          "client_id": "241312225830-16dpfrhr54t60284b5mtapihq8ndc7kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTGTM7IL-CPgZjU6LD_3R1Q8VI24a1cY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241312225830-16dpfrhr54t60284b5mtapihq8ndc7kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

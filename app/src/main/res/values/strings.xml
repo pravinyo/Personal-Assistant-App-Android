@@ -1,0 +1,81 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Chatmundo</string>
+    <string name="bot_name"></string>
+    <string name="btn_label">Talk</string>
+    <string name="started_listening">I\'m Listening ...</string>
+    <string name="initial_prompt">What\'s Up!</string>
+    <string name="default_response">Welcome Back  :-)</string>
+    <string name="searching_prompt">Searching for</string>
+    <string name="activity_weather_label">Weather Forecast</string>
+    <string name="btn_fetch_weather_data">Fetch Data</string>
+    <string name="NO_CONNECTION">No Internet Connection</string>
+    <string name="NO_RESULT">No Weather Forecast Found</string>
+    <string name="activity_reminder_label">Reminder</string>
+    <string name="default_reminder_display">What is that?</string>
+    <string name="reminder_set_success_message">I will remember for you..</string>
+    <string name="call_activity_label">Call</string>
+    <string name="call_response">TO whom ?</string>
+
+
+    <string name="state_label">State</string>
+    <string name="district_label">District</string>
+    <string name="market_label">Market</string>
+    <string name="commodity_label">Commodity</string>
+    <string name="Max_Price_label">Max Price</string>
+    <string name="Min_Price_label">Min Price</string>
+    <string name="Modal_Price_label">Modal Price</string>
+    <string name="search_button">Search</string>
+    <string name="editText_hint_text">Grocery Item</string>
+    <string name="grocery_activity_label">Fresh Grovery Price</string>
+    <string name="EMAIL_activity_label">Dictate Me For Mail</string>
+
+    <string name="dummy_text">Enter String and bot reply will be displayed below</string>
+    <string name="NETWORK_ISSUE">I need Internet Connection</string>
+    <string name="sign_out">Sign out</string>
+    <string name="preference_file_key">com.is_great.pro.personalassistantbot</string>
+    <string name="news_label">Fresh News</string>
+    <string name="editText_hint_text_news">site</string>
+
+    <!-- Temperature format -->
+    <string name="format_temperature">
+        <xliff:g id="temp">%1.0f</xliff:g>\u00B0
+    </string>
+    <string name="settings">Settings</string>
+    <string name="about">About us</string>
+    <string name="authour_label">\nDeveloper\'s:</string>
+    <string name="about_developer">\nWe are a passionate Developer .Our team is short but we do what we love.</string>
+    <string name="about_app_label">\n\nAbout PAB</string>
+    <string name="about_app_text">\nThis App is a Kind of Virtual Personal Assistant  and it\'s name is Chatmundo. It support voice feature to do all it\'s task like sms,news, etc. It has a good Artificial Intellience and talk smartly.</string>
+    <string name="about_activity_label">Welcome !</string>
+    <string name="settings_activity_label">Settings</string>
+    <string name="settings_preference_key">theme_toggle_settings</string>
+    <string name="settings_preference_title">Activate Night Mode</string>
+    <string name="about_app_function">\n\nFunctions Support:</string>
+    <string name="about_app_function_text">\nChatmundo has a number of functions: \n  1. General Search via Google
+        \n  2. News Search 3. Weather Report
+        \n  4. Scheduler
+        \n  5. Reminder
+        \n  6. Call and SMS
+        \n  7. Grocery Price
+        \n  8. Chat with Bot
+        \n\n  These functionalities are real-time and based on dynamic data sets.
+        All of the functionalities are provided an input of speech which is converted to
+        text with the help of speech to text engine. The output at stage is given by the
+        text to speech inbuilt android engine. Apart from this the app considers a login from
+        the user to store the user relevant data on the Google’s Firebase Storage. For better
+        readability and accessibility at night time, the user can switch to dark or light mode
+        as required which would turn the UI of the app respectively.\n
+    </string>
+    <string name="about_app_command_label">Commands</string>
+    <string name="about_app_commands_label_text">
+        1. For searching internet:\n\t\t use this commands: search for , find,google.\n\n
+        2. For news report :\n\t\t use show news, todays news\n\n
+        3. For message:\n\t\t use: send sms,send message,write message.\n\n
+        4. For email:\n\t\t use: compose email to,send email to.\n\n
+        5. For grocery price:\n\t\t use: tell me price of &lt;item_name&gt;,show price of &lt;item_name&gt;\n\n
+        6. For call command:\n\t\t use: call to,make a call,dial to, connect to.\n\n
+        7. For reminder:\n\t\t use: set reminder,set appointment.\n\n
+        8. For weather report:\n\t\t use: show weather.\n\n
+        9. For App launch:\n\t\t use:open or show &lt;app_name&gt;\n\n
+    </string>
+</resources>

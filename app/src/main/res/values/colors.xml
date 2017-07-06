@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#a47082</color>
+    <color name="speechbtn_listening">#99FFBB</color>
+    <color name="default_color">#ffff8800</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="detail_accent_pane_background">#455A64</color>
+    <color name="detail_accent_label">#90A4AE</color>
+    <color name="activated">#E0E0E0</color>
+    <color name="reminder_text_color">#19056b</color>
+    <color name="indigo">#4b0082</color>
+    <color name="pink">#ff69b4</color>
+    <color name="news_title">#000099</color>
+    <color name="light_grey">#cccccc</color>
+    <color name="white_opaque">#FFFFFFFF</color>
+    <color name="pitch_black">#FF000000</color>
+</resources>
