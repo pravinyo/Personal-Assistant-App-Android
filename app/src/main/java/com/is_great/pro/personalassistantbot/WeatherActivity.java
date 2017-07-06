@@ -53,7 +53,7 @@ public class WeatherActivity extends AppCompatActivity implements
 
     private static final int MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 4455;
     private static final int WEATHER_LOADER_ID = 14;
-    private static final String AppId = "f1dbaf310d23f4a38311c5963bf17789";
+    private static final String AppId = "your_id";
     private static final int FORECAST_LOADER_ID = 7;
     protected GoogleApiClient mGoogleApiClient;
 
@@ -207,13 +207,7 @@ public class WeatherActivity extends AppCompatActivity implements
 
 
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
+          
             return;
         }
         LocationServices.FusedLocationApi.requestLocationUpdates(mGoogleApiClient, mLocationRequest, this);
