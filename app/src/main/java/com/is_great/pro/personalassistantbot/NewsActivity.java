@@ -46,7 +46,7 @@ public class NewsActivity extends AppCompatActivity {
             "https://newsapi.org/v1/articles";
     private static String resource_Id="";
     private static final String Api_key="apiKey";
-    private static final String key ="ec4518fdb75648a5938e64d4e005de36";
+    private static final String key ="your key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
