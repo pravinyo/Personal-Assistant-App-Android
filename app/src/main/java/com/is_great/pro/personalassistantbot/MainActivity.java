@@ -83,7 +83,7 @@ public class MainActivity extends ASR {
     private String Bot_reply;
     private static int Bot_ID=12;
     private static final String FORMAT = "json";
-    private static final String BASE_URI_BOT="http://api.program-o.com/v2/chatbot/";
+    private static final String BASE_URI_BOT="__your bot url___";
 
     //firebase
     public static final int RC_SIGN_IN = 1;
