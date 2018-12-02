@@ -72,7 +72,7 @@ public class WeatherActivity extends AppCompatActivity implements
             "http://api.openweathermap.org/data/2.5/activity_weather";
 
     public static final String LOG_TAG = WeatherActivity.class.getName();
-    private String mlat = "19.0144", mlon = "72.8479";
+    private String mlat = "lat_value", mlon = "lon_value";//use gps coordinate
     Boolean dataIsNotLoaded=true;
     SharedPreferences sharedPreferences;
     private String mCity = "";
