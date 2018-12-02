@@ -43,7 +43,7 @@ public class NewsActivity extends AppCompatActivity {
     private String search_term;
 
     private static final String DATA_NEWSAPI_BASE_URL =
-            "https://newsapi.org/v1/articles";
+            "__base_url__";
     private static String resource_Id="";
     private static final String Api_key="apiKey";
     private static final String key ="your key";
